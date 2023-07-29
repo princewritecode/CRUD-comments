@@ -26,11 +26,14 @@ Open your web browser and navigate to http://localhost:3000 to access the applic
 Application Structure
 The project has the following structure:
 
-app.js: The main entry point of the application that sets up the Express server and defines the routes.
+Application Structure
+The project has the following structure:
+
+index.js: The main entry point of the application that sets up the Express server and defines the routes.
 views/: Contains the EJS templates used to render the HTML views.
-public/: Contains static assets like CSS and client-side JavaScript files.
-routes/: Contains the route handlers for different URL paths.
 data/: Contains a sample data file for initial tweets (comments).
+
+
 Features
 Create a New Tweet
 Access the application in your web browser at http://localhost:3000.
